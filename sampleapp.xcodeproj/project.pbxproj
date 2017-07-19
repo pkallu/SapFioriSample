@@ -45,6 +45,7 @@
 		D9FF7385E59093EA4F1362A2 /* PackagesMasterTableDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7080693E865D6FBCBE28DEEF /* PackagesMasterTableDelegate.swift */; };
 		DCA88498F118B84C769C8ADF /* DeliveryServiceMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7812775A95FAF4C81C2E7BE3 /* DeliveryServiceMetadata.swift */; };
 		EFB0B5E41F1AF94A00B3321E /* TrackingInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB0B5E31F1AF94A00B3321E /* TrackingInfoViewController.swift */; };
+		EFC7086A1F1FE8F30049DB3A /* Swift.gitignore in Resources */ = {isa = PBXBuildFile; fileRef = EFC708691F1FE8F30049DB3A /* Swift.gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -99,6 +100,7 @@
 		CBF918201DCC95B30037332A /* LoadingIndicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadingIndicator.swift; sourceTree = "<group>"; };
 		DE176DC37301FB10752AA4DE /* DeliveryService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DeliveryService.swift; path = "Proxy Classes/com.pkallu.sampleapp/public/DeliveryService.swift"; sourceTree = "<group>"; };
 		EFB0B5E31F1AF94A00B3321E /* TrackingInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrackingInfoViewController.swift; sourceTree = "<group>"; };
+		EFC708691F1FE8F30049DB3A /* Swift.gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Swift.gitignore; sourceTree = "<group>"; };
 		FFBD8ED769A1070D372DFE80 /* DeliveryStatusTypeDetailTableDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DeliveryStatusTypeDetailTableDelegate.swift; path = TableDelegates/DetailTableDelegates/DeliveryStatusTypeDetailTableDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -237,6 +239,7 @@
 				7A1315C11D4B982000A5DA56 /* Assets.xcassets */,
 				7A1315C31D4B982000A5DA56 /* LaunchScreen.storyboard */,
 				7A1315C61D4B982000A5DA56 /* Info.plist */,
+				EFC708691F1FE8F30049DB3A /* Swift.gitignore */,
 			);
 			path = sampleapp;
 			sourceTree = "<group>";
@@ -323,6 +326,7 @@
 			files = (
 				7A1315C51D4B982000A5DA56 /* LaunchScreen.storyboard in Resources */,
 				7A1315C21D4B982000A5DA56 /* Assets.xcassets in Resources */,
+				EFC7086A1F1FE8F30049DB3A /* Swift.gitignore in Resources */,
 				CBCA7A991E3778A9001AF49E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
